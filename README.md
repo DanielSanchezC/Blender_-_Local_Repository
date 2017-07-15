@@ -22,4 +22,12 @@ El edificio es pequeño y no tiene paredes tal cual, solo "paredes-ventana" para 
 
 4º Commit
 
-Removiendo Datablocks de mallas redundantes.
+Removiendo Datablocks (Bloques de datos, bien pueden ser propiedades, mallas [las cuales llevan materiales y texturas que son otros datablocks...], etc) de mallas redundantes.
+
+5º Commit
+
+Aprendiendo a linkear datablocks de otros archivos.
+
+6º Commit 
+
+AUN NO ESTA HECHO, pero sera un commit de nuevas piezas y nueva escena en la cual estara la idea principal de construccion, todavia esta en fase de desarrollo como llevare a cabo la idea.
