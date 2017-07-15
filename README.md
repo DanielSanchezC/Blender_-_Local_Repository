@@ -19,3 +19,7 @@ Son varios archivos llamados Detail, algunos son Detail One o Two porque se acop
 3º Commit
 
 El edificio es pequeño y no tiene paredes tal cual, solo "paredes-ventana" para apañar la construcción. Podía haber metido la pared básica pero no me he dado cuenta. :D
+
+4º Commit
+
+Removiendo Datablocks de mallas redundantes.
